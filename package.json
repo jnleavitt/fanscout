@@ -1,0 +1,23 @@
+{
+  "name": "fanscout",
+  "version": "1.0.0",
+  "description": "A social network app for youth sports fans.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnleavitt/fanscout.git"
+  },
+  "author": "Jim Leavitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnleavitt/fanscout/issues"
+  },
+  "homepage": "https://github.com/jnleavitt/fanscout#readme"
+}

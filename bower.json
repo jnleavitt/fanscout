@@ -1,0 +1,8 @@
+{
+"name" : "fanscout",
+"description" : "Social network app for fans of youth sports.",
+"version" : "0.0.1",
+"dependencies" : {
+	"angular" : "~1.3"
+}
+}
